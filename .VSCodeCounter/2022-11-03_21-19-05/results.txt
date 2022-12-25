@@ -1,0 +1,148 @@
+Date : 2022-11-03 21:19:05
+Directory : c:\Users\hamid\MyApp
+Total : 76 files,  40219 codes, 354 comments, 558 blanks, all 41131 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          5 |     29,698 |         43 |          4 |     29,745 |
+| TypeScript React   |         58 |     10,334 |        295 |        514 |     11,143 |
+| TypeScript         |          7 |         98 |         11 |         20 |        129 |
+| JavaScript         |          5 |         82 |          5 |         19 |        106 |
+| JSON with Comments |          1 |          7 |          0 |          1 |          8 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                   | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                      |         76 |     40,219 |        354 |        558 |     41,131 |
+| .expo-shared                                                           |          1 |          4 |          0 |          1 |          5 |
+| assets                                                                 |          1 |          3 |          0 |          0 |          3 |
+| assets\color                                                           |          1 |          3 |          0 |          0 |          3 |
+| components                                                             |         13 |      1,112 |         21 |         65 |      1,198 |
+| components\__tests__                                                   |          1 |          7 |          0 |          4 |         11 |
+| components\filter                                                      |          1 |        235 |          0 |          2 |        237 |
+| components\introSlide                                                  |          4 |        440 |         14 |         18 |        472 |
+| components\slider                                                      |          1 |        266 |          0 |         10 |        276 |
+| components\space                                                       |          1 |         18 |          0 |          1 |         19 |
+| components\toast                                                       |          1 |         26 |          3 |          6 |         35 |
+| constants                                                              |          2 |         31 |          0 |          5 |         36 |
+| hooks                                                                  |          2 |         29 |          6 |          8 |         43 |
+| navigation                                                             |          2 |        381 |         27 |         50 |        458 |
+| screens                                                                |         31 |      7,548 |        194 |        284 |      8,026 |
+| screens\code                                                           |          2 |        518 |          2 |          9 |        529 |
+| screens\detailPage                                                     |          1 |        191 |         15 |         12 |        218 |
+| screens\detailPageTwo                                                  |          1 |        191 |         15 |          7 |        213 |
+| screens\editItem                                                       |          1 |        988 |         15 |         33 |      1,036 |
+| screens\editProfile                                                    |          1 |        698 |          6 |         26 |        730 |
+| screens\informations                                                   |          2 |        110 |          0 |          3 |        113 |
+| screens\informations\style                                             |          1 |          7 |          0 |          1 |          8 |
+| screens\loactionPartner                                                |          1 |        147 |          3 |          6 |        156 |
+| screens\map                                                            |          6 |      2,686 |        123 |         99 |      2,908 |
+| screens\map\addOnMap                                                   |          3 |      1,415 |         83 |         55 |      1,553 |
+| screens\map\searchOnMap                                                |          1 |        201 |          1 |         10 |        212 |
+| screens\myAddress                                                      |          2 |        257 |          4 |         12 |        273 |
+| screens\myAddress\style                                                |          1 |         33 |          0 |          1 |         34 |
+| screens\notification                                                   |          1 |         15 |          1 |          2 |         18 |
+| screens\profile                                                        |          1 |        492 |          2 |          9 |        503 |
+| screens\realS                                                          |          1 |        308 |          5 |          7 |        320 |
+| screens\signIn                                                         |          1 |        258 |          0 |         10 |        268 |
+| screens\signUp                                                         |          1 |        213 |          1 |          8 |        222 |
+| screens\splash                                                         |          2 |        125 |          1 |         14 |        140 |
+| screens\splash\style                                                   |          1 |         31 |          0 |          4 |         35 |
+| screens\start                                                          |          1 |        200 |          0 |          3 |        203 |
+| screens\wellcome                                                       |          2 |         31 |          0 |          7 |         38 |
+| screens\wellcome\style                                                 |          1 |         23 |          0 |          3 |         26 |
+| service                                                                |         13 |      1,292 |         55 |        111 |      1,458 |
+| service\map                                                            |          4 |        256 |         26 |         38 |        320 |
+| service\object                                                         |          3 |        518 |         19 |         31 |        568 |
+| service\profile                                                        |          3 |        176 |          5 |         10 |        191 |
+| service\register                                                       |          3 |        342 |          5 |         32 |        379 |
+| utils                                                                  |          4 |         70 |          7 |         19 |         96 |
+| utils\storeData                                                        |          2 |         54 |          7 |         15 |         76 |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                               | language           | code       | comment    | blank      | total      |
++------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\hamid\MyApp\.expo-shared\assets.json                          | JSON               |          4 |          0 |          1 |          5 |
+| c:\Users\hamid\MyApp\App.js                                            | JavaScript         |         42 |          1 |         10 |         53 |
+| c:\Users\hamid\MyApp\app.json                                          | JSON               |         26 |         43 |          0 |         69 |
+| c:\Users\hamid\MyApp\assets\color\index.tsx                            | TypeScript React   |          3 |          0 |          0 |          3 |
+| c:\Users\hamid\MyApp\babel.config.js                                   | JavaScript         |          6 |          0 |          1 |          7 |
+| c:\Users\hamid\MyApp\components\EditScreenInfo.tsx                     | TypeScript React   |         72 |          0 |          8 |         80 |
+| c:\Users\hamid\MyApp\components\StyledText.tsx                         | TypeScript React   |          4 |          0 |          2 |          6 |
+| c:\Users\hamid\MyApp\components\Themed.tsx                             | TypeScript React   |         31 |          4 |         11 |         46 |
+| c:\Users\hamid\MyApp\components\__tests__\StyledText-test.js           | JavaScript         |          7 |          0 |          4 |         11 |
+| c:\Users\hamid\MyApp\components\filter\index.tsx                       | TypeScript React   |        235 |          0 |          2 |        237 |
+| c:\Users\hamid\MyApp\components\introSlide\index.tsx                   | TypeScript React   |        311 |         10 |         12 |        333 |
+| c:\Users\hamid\MyApp\components\introSlide\index.type.tsx              | TypeScript React   |        107 |          0 |          4 |        111 |
+| c:\Users\hamid\MyApp\components\introSlide\merge-extradata.d.ts        | TypeScript         |          1 |          0 |          1 |          2 |
+| c:\Users\hamid\MyApp\components\introSlide\merge-extradata.js          | JavaScript         |         21 |          4 |          1 |         26 |
+| c:\Users\hamid\MyApp\components\progress.tsx                           | TypeScript React   |         13 |          0 |          3 |         16 |
+| c:\Users\hamid\MyApp\components\slider\index.tsx                       | TypeScript React   |        266 |          0 |         10 |        276 |
+| c:\Users\hamid\MyApp\components\space\index.tsx                        | TypeScript React   |         18 |          0 |          1 |         19 |
+| c:\Users\hamid\MyApp\components\toast\index.tsx                        | TypeScript React   |         26 |          3 |          6 |         35 |
+| c:\Users\hamid\MyApp\constants\Colors.ts                               | TypeScript         |         21 |          0 |          2 |         23 |
+| c:\Users\hamid\MyApp\constants\Layout.ts                               | TypeScript         |         10 |          0 |          3 |         13 |
+| c:\Users\hamid\MyApp\eas.json                                          | JSON               |         18 |          0 |          1 |         19 |
+| c:\Users\hamid\MyApp\hooks\useCachedResources.ts                       | TypeScript         |         25 |          3 |          6 |         34 |
+| c:\Users\hamid\MyApp\hooks\useColorScheme.ts                           | TypeScript         |          4 |          3 |          2 |          9 |
+| c:\Users\hamid\MyApp\navigation\LinkingConfiguration.ts                | TypeScript         |         27 |          5 |          5 |         37 |
+| c:\Users\hamid\MyApp\navigation\index.tsx                              | TypeScript React   |        354 |         22 |         45 |        421 |
+| c:\Users\hamid\MyApp\package-lock.json                                 | JSON               |     29,583 |          0 |          1 |     29,584 |
+| c:\Users\hamid\MyApp\package.json                                      | JSON               |         67 |          0 |          1 |         68 |
+| c:\Users\hamid\MyApp\screens\ModalScreen.tsx                           | TypeScript React   |         30 |          1 |          5 |         36 |
+| c:\Users\hamid\MyApp\screens\NotFoundScreen.tsx                        | TypeScript React   |         33 |          0 |          4 |         37 |
+| c:\Users\hamid\MyApp\screens\TabOneScreen.tsx                          | TypeScript React   |         29 |          0 |          4 |         33 |
+| c:\Users\hamid\MyApp\screens\TabTwoScreen.tsx                          | TypeScript React   |         28 |          0 |          4 |         32 |
+| c:\Users\hamid\MyApp\screens\code\CodeForgetScreen.tsx                 | TypeScript React   |        231 |          0 |          3 |        234 |
+| c:\Users\hamid\MyApp\screens\code\index.tsx                            | TypeScript React   |        287 |          2 |          6 |        295 |
+| c:\Users\hamid\MyApp\screens\detailPageTwo\index.tsx                   | TypeScript React   |        191 |         15 |          7 |        213 |
+| c:\Users\hamid\MyApp\screens\detailPage\index.tsx                      | TypeScript React   |        191 |         15 |         12 |        218 |
+| c:\Users\hamid\MyApp\screens\editItem\index.tsx                        | TypeScript React   |        988 |         15 |         33 |      1,036 |
+| c:\Users\hamid\MyApp\screens\editProfile\index.tsx                     | TypeScript React   |        698 |          6 |         26 |        730 |
+| c:\Users\hamid\MyApp\screens\informations\index.tsx                    | TypeScript React   |        103 |          0 |          2 |        105 |
+| c:\Users\hamid\MyApp\screens\informations\style\informations.style.tsx | TypeScript React   |          7 |          0 |          1 |          8 |
+| c:\Users\hamid\MyApp\screens\loactionPartner\index.tsx                 | TypeScript React   |        147 |          3 |          6 |        156 |
+| c:\Users\hamid\MyApp\screens\map\Filter.tsx                            | TypeScript React   |        271 |          1 |          6 |        278 |
+| c:\Users\hamid\MyApp\screens\map\addOnMap\ModalPicker.tsx              | TypeScript React   |        398 |          0 |          9 |        407 |
+| c:\Users\hamid\MyApp\screens\map\addOnMap\idex.tsx                     | TypeScript React   |        806 |         45 |         34 |        885 |
+| c:\Users\hamid\MyApp\screens\map\addOnMap\mapSelect.tsx                | TypeScript React   |        211 |         38 |         12 |        261 |
+| c:\Users\hamid\MyApp\screens\map\index.tsx                             | TypeScript React   |        799 |         38 |         28 |        865 |
+| c:\Users\hamid\MyApp\screens\map\searchOnMap\index.tsx                 | TypeScript React   |        201 |          1 |         10 |        212 |
+| c:\Users\hamid\MyApp\screens\myAddress\index.tsx                       | TypeScript React   |        224 |          4 |         11 |        239 |
+| c:\Users\hamid\MyApp\screens\myAddress\style\myAddress.style.tsx       | TypeScript React   |         33 |          0 |          1 |         34 |
+| c:\Users\hamid\MyApp\screens\notification\index.tsx                    | TypeScript React   |         15 |          1 |          2 |         18 |
+| c:\Users\hamid\MyApp\screens\profile\index.tsx                         | TypeScript React   |        492 |          2 |          9 |        503 |
+| c:\Users\hamid\MyApp\screens\realS\index.tsx                           | TypeScript React   |        308 |          5 |          7 |        320 |
+| c:\Users\hamid\MyApp\screens\signIn\index.tsx                          | TypeScript React   |        258 |          0 |         10 |        268 |
+| c:\Users\hamid\MyApp\screens\signUp\index.tsx                          | TypeScript React   |        213 |          1 |          8 |        222 |
+| c:\Users\hamid\MyApp\screens\splash\index.tsx                          | TypeScript React   |         94 |          1 |         10 |        105 |
+| c:\Users\hamid\MyApp\screens\splash\style\splash.style.tsx             | TypeScript React   |         31 |          0 |          4 |         35 |
+| c:\Users\hamid\MyApp\screens\start\index.tsx                           | TypeScript React   |        200 |          0 |          3 |        203 |
+| c:\Users\hamid\MyApp\screens\wellcome\index.tsx                        | TypeScript React   |          8 |          0 |          4 |         12 |
+| c:\Users\hamid\MyApp\screens\wellcome\style\welcome.style.tsx          | TypeScript React   |         23 |          0 |          3 |         26 |
+| c:\Users\hamid\MyApp\service\map\Map.action.tsx                        | TypeScript React   |         14 |          0 |          2 |         16 |
+| c:\Users\hamid\MyApp\service\map\Map.context.tsx                       | TypeScript React   |        172 |         14 |         24 |        210 |
+| c:\Users\hamid\MyApp\service\map\Map.service.tsx                       | TypeScript React   |         54 |          5 |          8 |         67 |
+| c:\Users\hamid\MyApp\service\map\useDebounce.tsx                       | TypeScript React   |         16 |          7 |          4 |         27 |
+| c:\Users\hamid\MyApp\service\object\Object.action.tsx                  | TypeScript React   |         39 |          0 |          5 |         44 |
+| c:\Users\hamid\MyApp\service\object\Object.context.tsx                 | TypeScript React   |        267 |         15 |         13 |        295 |
+| c:\Users\hamid\MyApp\service\object\Object.service.tsx                 | TypeScript React   |        212 |          4 |         13 |        229 |
+| c:\Users\hamid\MyApp\service\profile\Profile.action.tsx                | TypeScript React   |         14 |          0 |          1 |         15 |
+| c:\Users\hamid\MyApp\service\profile\Profile.context.tsx               | TypeScript React   |         67 |          1 |          5 |         73 |
+| c:\Users\hamid\MyApp\service\profile\Profile.service.tsx               | TypeScript React   |         95 |          4 |          4 |        103 |
+| c:\Users\hamid\MyApp\service\register\Auth.action.tsx                  | TypeScript React   |         23 |          0 |          1 |         24 |
+| c:\Users\hamid\MyApp\service\register\Auth.context.tsx                 | TypeScript React   |        141 |          1 |         19 |        161 |
+| c:\Users\hamid\MyApp\service\register\Auth.service.tsx                 | TypeScript React   |        178 |          4 |         12 |        194 |
+| c:\Users\hamid\MyApp\tsconfig.json                                     | JSON with Comments |          7 |          0 |          1 |          8 |
+| c:\Users\hamid\MyApp\utils\http-common.ts                              | TypeScript         |         10 |          0 |          1 |         11 |
+| c:\Users\hamid\MyApp\utils\main.js                                     | JavaScript         |          6 |          0 |          3 |          9 |
+| c:\Users\hamid\MyApp\utils\storeData\index.tsx                         | TypeScript React   |         50 |          7 |         14 |         71 |
+| c:\Users\hamid\MyApp\utils\storeData\key.tsx                           | TypeScript React   |          4 |          0 |          1 |          5 |
+| Total                                                                  |                    |     40,219 |        354 |        558 |     41,131 |
++------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+

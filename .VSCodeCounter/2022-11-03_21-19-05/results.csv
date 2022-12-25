@@ -1,0 +1,78 @@
+"filename", "language", "TypeScript React", "JavaScript", "TypeScript", "JSON with Comments", "JSON", "comment", "blank", "total"
+"c:\Users\hamid\MyApp\.expo-shared\assets.json", "JSON", 0, 0, 0, 0, 4, 0, 1, 5
+"c:\Users\hamid\MyApp\App.js", "JavaScript", 0, 42, 0, 0, 0, 1, 10, 53
+"c:\Users\hamid\MyApp\app.json", "JSON", 0, 0, 0, 0, 26, 43, 0, 69
+"c:\Users\hamid\MyApp\assets\color\index.tsx", "TypeScript React", 3, 0, 0, 0, 0, 0, 0, 3
+"c:\Users\hamid\MyApp\babel.config.js", "JavaScript", 0, 6, 0, 0, 0, 0, 1, 7
+"c:\Users\hamid\MyApp\components\EditScreenInfo.tsx", "TypeScript React", 72, 0, 0, 0, 0, 0, 8, 80
+"c:\Users\hamid\MyApp\components\StyledText.tsx", "TypeScript React", 4, 0, 0, 0, 0, 0, 2, 6
+"c:\Users\hamid\MyApp\components\Themed.tsx", "TypeScript React", 31, 0, 0, 0, 0, 4, 11, 46
+"c:\Users\hamid\MyApp\components\__tests__\StyledText-test.js", "JavaScript", 0, 7, 0, 0, 0, 0, 4, 11
+"c:\Users\hamid\MyApp\components\filter\index.tsx", "TypeScript React", 235, 0, 0, 0, 0, 0, 2, 237
+"c:\Users\hamid\MyApp\components\introSlide\index.tsx", "TypeScript React", 311, 0, 0, 0, 0, 10, 12, 333
+"c:\Users\hamid\MyApp\components\introSlide\index.type.tsx", "TypeScript React", 107, 0, 0, 0, 0, 0, 4, 111
+"c:\Users\hamid\MyApp\components\introSlide\merge-extradata.d.ts", "TypeScript", 0, 0, 1, 0, 0, 0, 1, 2
+"c:\Users\hamid\MyApp\components\introSlide\merge-extradata.js", "JavaScript", 0, 21, 0, 0, 0, 4, 1, 26
+"c:\Users\hamid\MyApp\components\progress.tsx", "TypeScript React", 13, 0, 0, 0, 0, 0, 3, 16
+"c:\Users\hamid\MyApp\components\slider\index.tsx", "TypeScript React", 266, 0, 0, 0, 0, 0, 10, 276
+"c:\Users\hamid\MyApp\components\space\index.tsx", "TypeScript React", 18, 0, 0, 0, 0, 0, 1, 19
+"c:\Users\hamid\MyApp\components\toast\index.tsx", "TypeScript React", 26, 0, 0, 0, 0, 3, 6, 35
+"c:\Users\hamid\MyApp\constants\Colors.ts", "TypeScript", 0, 0, 21, 0, 0, 0, 2, 23
+"c:\Users\hamid\MyApp\constants\Layout.ts", "TypeScript", 0, 0, 10, 0, 0, 0, 3, 13
+"c:\Users\hamid\MyApp\eas.json", "JSON", 0, 0, 0, 0, 18, 0, 1, 19
+"c:\Users\hamid\MyApp\hooks\useCachedResources.ts", "TypeScript", 0, 0, 25, 0, 0, 3, 6, 34
+"c:\Users\hamid\MyApp\hooks\useColorScheme.ts", "TypeScript", 0, 0, 4, 0, 0, 3, 2, 9
+"c:\Users\hamid\MyApp\navigation\LinkingConfiguration.ts", "TypeScript", 0, 0, 27, 0, 0, 5, 5, 37
+"c:\Users\hamid\MyApp\navigation\index.tsx", "TypeScript React", 354, 0, 0, 0, 0, 22, 45, 421
+"c:\Users\hamid\MyApp\package-lock.json", "JSON", 0, 0, 0, 0, 29583, 0, 1, 29584
+"c:\Users\hamid\MyApp\package.json", "JSON", 0, 0, 0, 0, 67, 0, 1, 68
+"c:\Users\hamid\MyApp\screens\ModalScreen.tsx", "TypeScript React", 30, 0, 0, 0, 0, 1, 5, 36
+"c:\Users\hamid\MyApp\screens\NotFoundScreen.tsx", "TypeScript React", 33, 0, 0, 0, 0, 0, 4, 37
+"c:\Users\hamid\MyApp\screens\TabOneScreen.tsx", "TypeScript React", 29, 0, 0, 0, 0, 0, 4, 33
+"c:\Users\hamid\MyApp\screens\TabTwoScreen.tsx", "TypeScript React", 28, 0, 0, 0, 0, 0, 4, 32
+"c:\Users\hamid\MyApp\screens\code\CodeForgetScreen.tsx", "TypeScript React", 231, 0, 0, 0, 0, 0, 3, 234
+"c:\Users\hamid\MyApp\screens\code\index.tsx", "TypeScript React", 287, 0, 0, 0, 0, 2, 6, 295
+"c:\Users\hamid\MyApp\screens\detailPageTwo\index.tsx", "TypeScript React", 191, 0, 0, 0, 0, 15, 7, 213
+"c:\Users\hamid\MyApp\screens\detailPage\index.tsx", "TypeScript React", 191, 0, 0, 0, 0, 15, 12, 218
+"c:\Users\hamid\MyApp\screens\editItem\index.tsx", "TypeScript React", 988, 0, 0, 0, 0, 15, 33, 1036
+"c:\Users\hamid\MyApp\screens\editProfile\index.tsx", "TypeScript React", 698, 0, 0, 0, 0, 6, 26, 730
+"c:\Users\hamid\MyApp\screens\informations\index.tsx", "TypeScript React", 103, 0, 0, 0, 0, 0, 2, 105
+"c:\Users\hamid\MyApp\screens\informations\style\informations.style.tsx", "TypeScript React", 7, 0, 0, 0, 0, 0, 1, 8
+"c:\Users\hamid\MyApp\screens\loactionPartner\index.tsx", "TypeScript React", 147, 0, 0, 0, 0, 3, 6, 156
+"c:\Users\hamid\MyApp\screens\map\Filter.tsx", "TypeScript React", 271, 0, 0, 0, 0, 1, 6, 278
+"c:\Users\hamid\MyApp\screens\map\addOnMap\ModalPicker.tsx", "TypeScript React", 398, 0, 0, 0, 0, 0, 9, 407
+"c:\Users\hamid\MyApp\screens\map\addOnMap\idex.tsx", "TypeScript React", 806, 0, 0, 0, 0, 45, 34, 885
+"c:\Users\hamid\MyApp\screens\map\addOnMap\mapSelect.tsx", "TypeScript React", 211, 0, 0, 0, 0, 38, 12, 261
+"c:\Users\hamid\MyApp\screens\map\index.tsx", "TypeScript React", 799, 0, 0, 0, 0, 38, 28, 865
+"c:\Users\hamid\MyApp\screens\map\searchOnMap\index.tsx", "TypeScript React", 201, 0, 0, 0, 0, 1, 10, 212
+"c:\Users\hamid\MyApp\screens\myAddress\index.tsx", "TypeScript React", 224, 0, 0, 0, 0, 4, 11, 239
+"c:\Users\hamid\MyApp\screens\myAddress\style\myAddress.style.tsx", "TypeScript React", 33, 0, 0, 0, 0, 0, 1, 34
+"c:\Users\hamid\MyApp\screens\notification\index.tsx", "TypeScript React", 15, 0, 0, 0, 0, 1, 2, 18
+"c:\Users\hamid\MyApp\screens\profile\index.tsx", "TypeScript React", 492, 0, 0, 0, 0, 2, 9, 503
+"c:\Users\hamid\MyApp\screens\realS\index.tsx", "TypeScript React", 308, 0, 0, 0, 0, 5, 7, 320
+"c:\Users\hamid\MyApp\screens\signIn\index.tsx", "TypeScript React", 258, 0, 0, 0, 0, 0, 10, 268
+"c:\Users\hamid\MyApp\screens\signUp\index.tsx", "TypeScript React", 213, 0, 0, 0, 0, 1, 8, 222
+"c:\Users\hamid\MyApp\screens\splash\index.tsx", "TypeScript React", 94, 0, 0, 0, 0, 1, 10, 105
+"c:\Users\hamid\MyApp\screens\splash\style\splash.style.tsx", "TypeScript React", 31, 0, 0, 0, 0, 0, 4, 35
+"c:\Users\hamid\MyApp\screens\start\index.tsx", "TypeScript React", 200, 0, 0, 0, 0, 0, 3, 203
+"c:\Users\hamid\MyApp\screens\wellcome\index.tsx", "TypeScript React", 8, 0, 0, 0, 0, 0, 4, 12
+"c:\Users\hamid\MyApp\screens\wellcome\style\welcome.style.tsx", "TypeScript React", 23, 0, 0, 0, 0, 0, 3, 26
+"c:\Users\hamid\MyApp\service\map\Map.action.tsx", "TypeScript React", 14, 0, 0, 0, 0, 0, 2, 16
+"c:\Users\hamid\MyApp\service\map\Map.context.tsx", "TypeScript React", 172, 0, 0, 0, 0, 14, 24, 210
+"c:\Users\hamid\MyApp\service\map\Map.service.tsx", "TypeScript React", 54, 0, 0, 0, 0, 5, 8, 67
+"c:\Users\hamid\MyApp\service\map\useDebounce.tsx", "TypeScript React", 16, 0, 0, 0, 0, 7, 4, 27
+"c:\Users\hamid\MyApp\service\object\Object.action.tsx", "TypeScript React", 39, 0, 0, 0, 0, 0, 5, 44
+"c:\Users\hamid\MyApp\service\object\Object.context.tsx", "TypeScript React", 267, 0, 0, 0, 0, 15, 13, 295
+"c:\Users\hamid\MyApp\service\object\Object.service.tsx", "TypeScript React", 212, 0, 0, 0, 0, 4, 13, 229
+"c:\Users\hamid\MyApp\service\profile\Profile.action.tsx", "TypeScript React", 14, 0, 0, 0, 0, 0, 1, 15
+"c:\Users\hamid\MyApp\service\profile\Profile.context.tsx", "TypeScript React", 67, 0, 0, 0, 0, 1, 5, 73
+"c:\Users\hamid\MyApp\service\profile\Profile.service.tsx", "TypeScript React", 95, 0, 0, 0, 0, 4, 4, 103
+"c:\Users\hamid\MyApp\service\register\Auth.action.tsx", "TypeScript React", 23, 0, 0, 0, 0, 0, 1, 24
+"c:\Users\hamid\MyApp\service\register\Auth.context.tsx", "TypeScript React", 141, 0, 0, 0, 0, 1, 19, 161
+"c:\Users\hamid\MyApp\service\register\Auth.service.tsx", "TypeScript React", 178, 0, 0, 0, 0, 4, 12, 194
+"c:\Users\hamid\MyApp\tsconfig.json", "JSON with Comments", 0, 0, 0, 7, 0, 0, 1, 8
+"c:\Users\hamid\MyApp\utils\http-common.ts", "TypeScript", 0, 0, 10, 0, 0, 0, 1, 11
+"c:\Users\hamid\MyApp\utils\main.js", "JavaScript", 0, 6, 0, 0, 0, 0, 3, 9
+"c:\Users\hamid\MyApp\utils\storeData\index.tsx", "TypeScript React", 50, 0, 0, 0, 0, 7, 14, 71
+"c:\Users\hamid\MyApp\utils\storeData\key.tsx", "TypeScript React", 4, 0, 0, 0, 0, 0, 1, 5
+"Total", "-", 10334, 82, 98, 7, 29698, 354, 558, 41131

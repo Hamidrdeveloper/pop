@@ -23,9 +23,9 @@ export default function Slider({ data ,navigation}: Type) {
   const insets = useSafeAreaInsets();
   const sampel =``
   const dataLocal =[
-    {id:1,text:"Find an Object & sending data",detail:" ",image:imageTwo},
-  {id:1,text:"Unpictured objects",detail:" ",image:Title},
-  {id:1,text:"Take a picture",detail:" ",image:layer3}]
+    {id:1,text:"Move away from the building so that you can completely capture the front of the building",detail:"Make sure that there are no objects covering the building in the foreground. Take pictures from all sides, from the main entrance and from billboards.",image:imageTwo},
+  {id:1,text:"Make sure you have found the right building.",detail:" Unimaged objects are displayed with orange geotags. Some objects consist of several buildings.",image:Title},
+  {id:1,text:"Use an ultra-wide-angle camera",detail:"Pictures should be in landscape unless it is a skyscraper. The building should fit completely on one image. Focus should be on the building.",image:layer3}]
   const [slideIndex, setSlideIndex] = useState(0);
   const [indexPage, setIndexPage] = useState(0);
   const renderPaginationCostume = i => {
@@ -33,7 +33,7 @@ export default function Slider({ data ,navigation}: Type) {
     console.disableYellowBox = true;
     return (
       <>
-        <View style={{flexDirection: 'row', justifyContent: 'center',paddingTop:40}}>
+        <View style={{flexDirection: 'row', justifyContent: 'center',top:100}}>
           {dataLocal.map((t, index) => {
             if (index != dataLocal.length) {
               return (
@@ -85,13 +85,13 @@ export default function Slider({ data ,navigation}: Type) {
         <ImagTop resizeMode={'stretch'}source={item.image} />
         </View>
         <ViewBottom
-          style={{ width:width,height:250,backgroundColor: "#ffff", position: "absolute", bottom:0 }}
+          style={{ width:width,height:300,backgroundColor: "#ffff", position: "absolute", bottom:0 }}
         >
           <ViewBottom
-          style={{ width:width,height:`100%`,backgroundColor: "#ffff", bottom: Math.max(insets.bottom, 16), }}
+          style={{ width:width,height:`100%`,backgroundColor: "#ffff",paddingTop:20, bottom: Math.max(insets.bottom, 16), }}
         >
           <TextBlue>{item.text}</TextBlue>
-          <TextGry>{sampel}</TextGry>
+          <TextGry>{item.detail}</TextGry>
           {slideIndex<2?
           <>
           <ViewBottonBox onPress={()=>{navigation.navigate("SignIn")}}>
@@ -99,7 +99,7 @@ export default function Slider({ data ,navigation}: Type) {
             </ViewBottonBox>
           <ButtonBlue onPress={()=>{onNext()}}><TextBottonBoxBlue>{"Next >"}</TextBottonBoxBlue></ButtonBlue>
           </>:
-          <View style={{position: "absolute",width:width,paddingLeft:25,paddingRight:25,top:192,alignItems:'center',justifyContent:'center'}}>
+          <View style={{position: "absolute",width:width,paddingLeft:25,paddingRight:25,bottom:0,alignItems:'center',justifyContent:'center'}}>
             <ButtonStart onPress={()=>{onNext()}}>
               <TextLastIndex>Start</TextLastIndex>
             <ImageRight  resizeMode={'stretch'} source={Vector}/>
@@ -147,7 +147,7 @@ const ImagTop = styled.Image`
   height: 280px;
 `;
 const TextBlue = styled.Text`
-top: 48px;
+
 font-size: 18px;
 font-size: 18px;
 line-height: 24px;
@@ -161,10 +161,10 @@ text-align: center;
 color: #003E77;
 `
 const TextGry =styled.Text`
-position: absolute;
+
 width: 327px;
 height: 72px;
-top: 88px;
+
 font-family: "Hurme";
 
 font-style: normal;
@@ -187,7 +187,7 @@ position: absolute;
 width: 187px;
 height: 48px;
 left: 163px;
-top: 192px;
+bottom: 0px;
 
 background: #0133AA;
 border-radius: 8px;
@@ -237,7 +237,7 @@ position: absolute;
 width: 107px;
 height: 48px;
 left: 40px;
-top: 192px;
+bottom:0px;
 
 border: 1.5px solid #0133AA;
 border-radius: 8px;
@@ -247,7 +247,7 @@ const ButtonStart = styled.Pressable`
 justify-content: center;
 align-items: center;
 flex-direction: row;
-position: absolute;
+
 width: 100%;
 height: 48px;
 

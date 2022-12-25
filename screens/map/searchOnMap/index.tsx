@@ -76,7 +76,7 @@ const ViewCard = styled.TouchableOpacity`
   box-sizing: border-box;
 
   padding: 7px;
-  width: 100%;
+  width: 90%;
   height: 115px;
   flex-direction: row;
   background: #ffffff;
